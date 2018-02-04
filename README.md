@@ -33,7 +33,6 @@ In the terminal/console you will be prompted to input a Width(w) and Height(h) g
 ┌ ─ ─ ─ ┐
 │       │
 └ ─ ─ ─ ┘
-
 ```
 
 (However, in the terminal the rows and rows would be conjoined rather than spaced.)
@@ -52,5 +51,4 @@ In the terminal/console you will be prompted to input a Width(w) and Height(h) g
 │                 │
 │                 │
 └ ─ ─ ─ ─ ─ ─ ─ ─ ┘
-
 ```
