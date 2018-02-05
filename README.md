@@ -4,6 +4,7 @@ A program to draw a box in the terminal of specified width (w) and height (h) us
 The files inlcuded in this Directory include:
 
 `main.c` - source code including the box maker using ASCII characters
+
 `Makefile` - to easily compile and execute
 
 ### Getting Started
